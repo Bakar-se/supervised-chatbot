@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey there!"
+    },
+    {
+      "question": "hi",
+      "answer": "hey there!"
+    },
+    {
+      "question": "how can i login to future soul?",
+      "answer": "by providing email and password"
+    },
+    {
+      "question": "how to login?",
+      "answer": "by providing email and password"
+    }
+  ]
+}
